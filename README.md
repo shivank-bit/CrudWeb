@@ -27,5 +27,6 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+
+git clone https://github.com/shivank-bit/CrudWeb.git
 cd your-repo/backend
